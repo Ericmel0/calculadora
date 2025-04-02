@@ -1,8 +1,7 @@
-adicao = function(num1, num2){
-    console.log(num1 + num2)
-}
-subtração = function(num1, num2){
-    console.log(num1 + num2)
-}
 
-if(operacao = "adicao")
+if(operacao = "adicao"){
+    console.log(num1 + num2)
+}
+if(operacao = "subtracao"){
+    console.log(num1 - num2)
+}
